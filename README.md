@@ -1,0 +1,2 @@
+# EIT-MPhys-Project
+This code includes a novel Electrode Selection Algorithm (ESA) for use in Electrical Impedance Tomography (EIT) on 2-dimensional samples. It also features an implementation of a solver of the EIT forward problem that considers the Complete Electrode Model. The model uses the GREIT implementation of the PyEIT package (https://github.com/liubenyuan/pyEIT) for EIT computations, as well as some other parts of the PyEIT software. Our team does not have any claims for these parts of the code.
