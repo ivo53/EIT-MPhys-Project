@@ -17,4 +17,4 @@ Note that the `mesh` and `eit` folders contain copies of the corresponding files
 |  Scikit-image    | tested with scikit-image 0.15.0     |
 |  Matplotlib      | tested with matplotlib 3.1.1        |
 |  Scikit-optimize | tested with scikit-optimize 0.7.4   |
-* PyEIT package was modified in this project, so you may need to substitute the package files with the ones included in this project to use this software.
+ * PyEIT package was modified in this project, so you may need to substitute the package files with the ones included in this project to use this software.
